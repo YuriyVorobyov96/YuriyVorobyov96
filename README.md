@@ -31,8 +31,8 @@
 ~ 𝚛𝚘𝚘𝚝#                                                                                         100%
 </pre>
 
-<a href="https://readme-stats.clckblog.space/"><img alt="YuriyVorobyov96's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriyvorobyov96&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Makefile,Mathematica,HTML,CSS,Processing,Pug" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YuriyVorobyov96's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=yuriyvorobyov96&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YuriyVorobyov96's Top Languages" src="https://readme-stats.clckblog.space/api/top-langs/?username=yuriyvorobyov96&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Makefile,Mathematica,HTML,CSS,Processing,Pug" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YuriyVorobyov96's Github Stats" src="https://readme-stats.clckblog.space/api/top-langs//api/?username=yuriyvorobyov96&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 
 
