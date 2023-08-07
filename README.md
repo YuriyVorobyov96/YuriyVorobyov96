@@ -31,9 +31,16 @@
 ~ 𝚛𝚘𝚘𝚝#                                                                                         100%
 </pre>
 
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YuriyVorobyov96's Top Languages" src="https://readme-stats.clckblog.space/api/top-langs/?username=yuriyvorobyov96&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Makefile,Mathematica,HTML,CSS,Processing,Pug" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="YuriyVorobyov96's Github Stats" src="https://readme-stats.clckblog.space/api/?username=yuriyvorobyov96&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+</div>
+<div>
+<a href="https://stackexchange.com/users/20195618"><img src="https://stackexchange.com/users/flair/20195618.png?theme=dark" width="208" height="58" alt="profile for Yuri Vorobev on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Yuri Vorobev on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</div>
+<div>
 <a href="https://www.codewars.com/users/YuriyVorobyov96/badges/large"><img alt="YuriyVorobyov96's CodeWars Stats" src="https://www.codewars.com/users/YuriyVorobyov96/badges/large"></a>
+</div>
 
 <!---
 YuriyVorobyov96/YuriyVorobyov96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
